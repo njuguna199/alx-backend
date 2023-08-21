@@ -3,7 +3,7 @@
 
 Back-end
 
-- By Dev Nderitu
+- By Kim Njuguna
 
 ### Concepts
 
